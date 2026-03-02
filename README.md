@@ -5,31 +5,19 @@ I work on both backend logic and frontend structure, aiming for clean and mainta
 
 ## 🧠 What I do
 - Design and develop full-stack applications  
-- Build REST APIs and backend services  
-- Create simple and usable frontends  
-- Break things and fix them properly
+- Build REST APIs and backend services   
 
 ## 🛠 Tech Stack
 **Backend:**  
-- Java, Spring Boot  
-- REST APIs  
-- SQL (MySQL / PostgreSQL)
+Java, Spring Boot, REST APIs, SQL (MySQL / PostgreSQL)
 
 **Frontend:**  
-- HTML, CSS, JavaScript, TypeScript
-- Bootstrap  
-- Angular
+HTML, CSS, JavaScript, TypeScript, Bootstrap, Angular
 
 **Tools & Others:**  
 - Git & GitHub  
 - Maven / Gradle  
 - Docker
-
-## 📂 Projects
-Here you’ll find:
-- Personal projects  
-- Experiments and learning projects  
-- Full-stack applications  
 
 ## 📈 Goals
 - Improve system design skills  
